@@ -1,4 +1,4 @@
-# Hi, I'm Yashi 👋
+# Hi, I'm Yash 👋
 
 ### Software Developer | Full-Stack Developer | Open Source Enthusiast
 
