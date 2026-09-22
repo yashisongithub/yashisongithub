@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Yashi 👋
 
-<!--
-**yashisongithub/yashisongithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Full-Stack Developer | Open Source Enthusiast
 
-Here are some ideas to get you started:
+I enjoy building software, learning new technologies, and solving
+interesting engineering problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+---
+
+## 🚀 About Me
+
+- 💻 I build ...
+- 🌱 Currently learning ...
+- 🔭 Currently working on ...
 - ⚡ Fun fact: ...
--->
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+JavaScript · TypeScript · Python · Java · C++
+
+### Frameworks & Tools
+
+React · Node.js · Git · Docker · ...
+
+---
+
+## 📌 Featured Projects
+
+### Project One
+
+Description of your project.
+
+### Project Two
+
+Description of your project.
+
+---
+
+## 📊 GitHub Contributions
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn] · [Portfolio] · [Email]
